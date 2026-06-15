@@ -76,6 +76,22 @@ export const SUPPORTED_AGENTS = [
     localConfigDir: '.agents',
     localSkillsDir: 'skills',
   },
+  {
+    id: 'hermes',
+    name: 'Hermes Agent',
+    configDir: '.hermes',
+    skillsDir: 'skills',
+    localConfigDir: '.hermes',
+    localSkillsDir: 'skills',
+  },
+  {
+    id: 'qoder',
+    name: 'Qoder',
+    configDir: '.qoder',
+    skillsDir: 'skills',
+    localConfigDir: '.qoder',
+    localSkillsDir: 'skills',
+  },
 ];
 
 /**
